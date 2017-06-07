@@ -11,9 +11,9 @@ require_once(__DIR__ . '/picocms/vendor/autoload.php');
 // instance Pico
 $pico = new Pico(
     __DIR__.'/picocms/',    // root dir
-    'config/',  // config dir
+    '../config/',  // config dir
     'plugins/', // plugins dir
-    'themes/'   // themes dir
+    '../themes/'   // themes dir
 );
 
 // run application
