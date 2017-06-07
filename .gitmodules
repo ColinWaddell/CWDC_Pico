@@ -1,0 +1,3 @@
+[submodule "picocms"]
+	path = picocms
+	url = https://github.com/picocms/Pico.git
